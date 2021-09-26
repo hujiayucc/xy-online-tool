@@ -1,39 +1,64 @@
 # 小宇在线工具箱
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
-
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+## 使用方法
+1. 下载程序源码
+2. 上传至服务器
+3. 解压到网站根目录
+4. 导入数据库文件
+5. 修改数据库配置文件
+6. 默认登录用户名和密码为：admin/123456
 
 
-#### 特技
+## 测试环境为
+### 第一种
+Nginx 1.21
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+PHP 7.2
+
+MySQL 5.7
+
+### 第二种
+Nginx 1.14
+
+PHP 5.6
+
+MySQL 5.6
+
+
+ 
+**压缩包内有各个路径说明，数据库每个字段都已经写好注释** 
+
+**此版为最初版本，后续我会加入更多功能免费提供给大家使用** 
+
+
+
+## 程序截图
+### 电脑端截图
+ **首页截图：** 
+ ![pc1](https://www.hujiayucc.cn/content/uploadfile/202109/2bd81632263099.png) 
+ **备案查询：** 
+ ![pc2](https://www.hujiayucc.cn/content/uploadfile/202109/6d291632263367.png) 
+ **二维码生成：** 
+ ![pc3](https://www.hujiayucc.cn/content/uploadfile/202109/2e601632263367.png) 
+ **UA检测：** 
+ ![pc4](https://www.hujiayucc.cn/content/uploadfile/202109/f2641632263367.png) 
+ **文字转语音：** 
+ ![pc4](https://www.hujiayucc.cn/content/uploadfile/202109/eac31632263367.png) 
+
+
+### 移动端截图
+  **首页截图：** 
+ ![pe1](https://www.hujiayucc.cn/content/uploadfile/202109/0fc51632263727.jpg) 
+ **侧边栏：** 
+ ![pe2](https://www.hujiayucc.cn/content/uploadfile/202109/72bb1632263728.jpg) 
+ **备案查询：** 
+ ![pe3](https://www.hujiayucc.cn/content/uploadfile/202109/4b0a1632263727.jpg) 
+ **二维码生成：** 
+ ![pe4](https://www.hujiayucc.cn/content/uploadfile/202109/6b6b1632263727.jpg) 
+ **UA检测：** 
+ ![pe5](https://www.hujiayucc.cn/content/uploadfile/202109/34e41632263727.jpg) 
+ **文字转语音：** 
+ ![pe6](https://www.hujiayucc.cn/content/uploadfile/202109/d6b11632263727.jpg) 
+
+## 演示站
+https://tool.hujiayucc.cn
