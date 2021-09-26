@@ -56,4 +56,5 @@ type: "warning"
 		 <!-- end row-->
 	</div>
 	<!-- end col -->
+    
 <?php include("foot.php"); ?>
