@@ -55,5 +55,4 @@ include 'head.php';
         </div>
         <!-- end page -->
 
-
 <?php include("foot.php"); ?>
