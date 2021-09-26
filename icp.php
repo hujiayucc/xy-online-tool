@@ -104,5 +104,4 @@ $('#jiexi_data').css("display", "block");
 };
 </script>
 
-
 <?php include("foot.php"); ?>
