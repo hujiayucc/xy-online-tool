@@ -21,7 +21,6 @@
             <!-- End Page content -->
             <!-- ============================================================== -->
 
-
         </div>
         <!-- END wrapper -->
        <script src="assets/javascript/app.min.js"></script>
